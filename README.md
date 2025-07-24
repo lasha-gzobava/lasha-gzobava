@@ -7,8 +7,6 @@
 ## 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lasha-gzobava&layout=compact)
 
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lasha-gzobava&show_icons=true&theme=radical)
 
 ## 📬 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lasha-gzobava-82a02425b/)
